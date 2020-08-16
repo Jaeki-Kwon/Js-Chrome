@@ -52,7 +52,7 @@ function paintToDo(text) {
 }
 
 function handleSubmit(event) {
-  event.preventDefault();
+  // event.preventDefault();
   const currentValue = toDoInput.value;
   paintToDo(currentValue);
   /* Write a to do 에서 글을 쓰고 엔터를 누를 때 글씨가 남아있었는데

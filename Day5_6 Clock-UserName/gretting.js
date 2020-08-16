@@ -11,7 +11,7 @@ function saveName(text) {
 
 function handleSubmit(event) {
   // What is your name 에 글씨를 쓰고 엔터 눌러도 글씨가 계속 남아있게 만듬
-  event.preventDefault();
+  // event.preventDefault();
   const currentValue = input.value;
   paintGreeting(currentValue);
   saveName(currentValue);
