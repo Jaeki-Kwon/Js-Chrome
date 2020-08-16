@@ -1,0 +1,46 @@
+.main {
+  width: 660px;
+  height: 370px;
+  margin: 30px 40px;
+  background-color: black;
+}
+
+table {
+  border: 1px;
+  top: 15px;
+  position: relative;
+}
+
+td {
+  width: 140px;
+  height: 60px;
+  border-radius: 15px;
+  color: white;
+  background-color: #363439;
+  border: none;
+  font-size: 25px;
+  padding-left: 70px;
+}
+
+.text {
+  background-color: black;
+}
+
+input {
+  font-size: 25px;
+  background-color: black;
+  border: none;
+  color: white;
+}
+
+.color_gray {
+  background-color: #a7aab1;
+}
+
+.color_orange {
+  background-color: #fe8e00;
+}
+
+#text_0 {
+  padding-left: 25%;
+}
