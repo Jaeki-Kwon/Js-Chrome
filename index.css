@@ -41,7 +41,7 @@ body {
 .js-clock {
   position: absolute;
   top: 10%;
-  left: 38%;
+  left: 38px;
 }
 
 .js-title {
